@@ -1,3 +1,5 @@
+# If you're here for a pre-compiled build ~~that took me 5 hours to compile~~, [click here.](https://github.com/Yeet1000/openwrt-rpi5-precomp/releases/latest)
+
 ![OpenWrt logo](include/logo.png)
 
 OpenWrt Project is a Linux operating system targeting embedded devices. Instead
