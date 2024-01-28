@@ -1,4 +1,4 @@
-# If you're here for a pre-compiled build ~~that took me 5 hours to compile~~, [click here.](https://github.com/Yeet1000/openwrt-rpi5-precomp/releases/latest)
+# If you're here for a pre-compiled build for the Raspberry Pi 5 ~~that took me 5 hours to compile~~, [click here.](https://github.com/Yeet1000/openwrt-rpi5-precomp/releases/latest) Otherwise, you should just use [openwrt/openwrt.](https://github.com/openwrt/openwrt)
 
 ![OpenWrt logo](include/logo.png)
 
