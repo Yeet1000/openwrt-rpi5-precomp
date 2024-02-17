@@ -1,4 +1,6 @@
-# If you're here for a pre-compiled build for the Raspberry Pi 5 ~~that took me 5 hours to compile~~, [click here.](https://github.com/Yeet1000/openwrt-rpi5-precomp/releases/latest) Otherwise, you should just use [openwrt/openwrt.](https://github.com/openwrt/openwrt)
+~~# If you're here for a pre-compiled build for the Raspberry Pi 5 ~~that took me 5 hours to compile~~, [click here.](https://github.com/Yeet1000/openwrt-rpi5-precomp/releases/latest) Otherwise, you should just use [openwrt/openwrt.](https://github.com/openwrt/openwrt)~~  
+OpenWRT is now available officially through the Firmware Selector, and this image is no longer preferred.  
+For now, I'll build images with LUCI built in because OpenWRT's snapshots require LUCI to be manually installed.
 
 ![OpenWrt logo](include/logo.png)
 
